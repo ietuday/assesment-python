@@ -28,7 +28,7 @@ Once its release of first version it can be used in production.
 3. virtualenv -p python3 my_virtual_env
 4. cd my_virtual_env
 5. source bin/activate
-6. (my_virtual_env) $ git clone https://github.com/ankity10/Mcq-Web-App.git
+6. (my_virtual_env) $ git clone https://github.com/ietuday/assesment-python.git
 7. (my_virtual_env) $ cd Mcq-Web-App
 8. (my_virtual_env) $ pip install -r requirements.txt
 9. (my_virtual_env) $python manage.py runserver 8080
